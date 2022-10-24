@@ -5,7 +5,7 @@ allow-unauthenticated = ["bug", "invalid", "question", "enhancement"]
 
 [note]
 
-[decision-process]
+[decision]
 
 [ping.wg-meta]
 message = """\
